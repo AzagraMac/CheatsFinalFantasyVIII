@@ -1,7 +1,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/azagramac/CheatsFinalFantasyVIII.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/CheatsFinalFantasyVIII/master.svg)
 
 # Cheats Final Fantaxy VIII for PSX / PSP
-<img align="center" src="https://vignette.wikia.nocookie.net/finalfantasy/images/3/37/Ff8_logo.png/revision/latest/scale-to-width-down/295?cb=20100805044600" height="240px" /> 
+<p align="center">
+        <img src="logo.png" alt="PNG" height="180px" />
+</p>
 
 ## Requirements
 - PSP with Custom Firmware
